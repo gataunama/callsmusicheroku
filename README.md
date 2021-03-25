@@ -4,4 +4,4 @@
 
 # Main repository
 
-[Click here](https://github.com/gataunama/callsmusic-2)
+[Click here](https://github.com/gataunama/callmusic2)
